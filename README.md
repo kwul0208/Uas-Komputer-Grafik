@@ -9,6 +9,7 @@ Ahmad wahyu Awaludinn (201011400908)
    <img width="617" alt="form image" src="https://github.com/kwul0208/Uas-Komputer-Grafik/assets/73464576/0b2aa909-c9b8-4776-a679-43cd2208e3e0">
 
 3. Halaman Hasil / result
+   
    <img width="607" alt="result" src="https://github.com/kwul0208/Uas-Komputer-Grafik/assets/73464576/ef8dfa04-740d-4cf9-8cb0-6da3b41073ad">
 
 
