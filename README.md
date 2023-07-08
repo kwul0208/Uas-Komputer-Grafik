@@ -1,5 +1,6 @@
 # UAS Komputer Grafik
-Ahmad wahyu Awaludinn (201011400908)
+Ahmad wahyu Awaludin (201011400908)
+06TPLE012
 
 
 1. Halaman home
